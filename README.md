@@ -1,6 +1,6 @@
 ### ISCS 导航网站
 - `ISCS`: Intelligent Storage and Computing System Lab
-- 欢迎实验室同学 `提交链接`
+- 欢迎实验室同学 [`提交链接` https://github.com/yaowenxu/ISCS-NAVIGATOR](https://github.com/yaowenxu/ISCS-NAVIGATOR)
 
 #### 配置步骤
 - 编译环境：`hugo` [Quick Start](https://gohugo.io/getting-started/quick-start/)
