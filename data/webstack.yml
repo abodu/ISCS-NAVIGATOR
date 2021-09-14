@@ -1,0 +1,37 @@
+---
+
+- taxonomy: 常用网站
+  icon: fa-star
+  links: 
+    - title: 谷歌学术
+      logo: assets/images/logos/google.png
+      url: https://scholar.google.com/
+      description: Google Scholar
+    - title: 谷歌搜索引擎
+      logo: assets/images/logos/google.png
+      url: https://www.google.com/
+      description: Google 搜索引擎
+    - title: DBLP
+      logo: assets/images/favicon.png
+      url: https://dblp.org/
+      description: Computer Science Bibliography
+
+- taxonomy: 实验室资源
+  icon: fa-database
+  links: 
+    - title: ISCS WIKI
+      logo: assets/images/favicon.png
+      url: http://10.214.242.140/wiki/index.php
+      description: ISCS 实验室维基百科
+
+- taxonomy: 系统工具
+  icon: fa-cube
+  links: 
+    - title: Hoppscotch
+      logo: assets/images/favicon.png
+      url: http://10.214.242.140:4000
+      description: RestAPI 调试工具
+    - title: CockPit
+      logo: assets/images/favicon.png
+      url: http://10.214.242.140:9090
+      description: Cockpit 服务器管理平台

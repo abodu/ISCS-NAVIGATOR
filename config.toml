@@ -1,0 +1,15 @@
+baseURL = 'http://10.214.242.140/'
+languageCode = 'zh-CN'
+title = 'ISCS 导航网站'
+theme = "navi"
+
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+[params]
+  author = "Yaowen XU"
+  description = "ISCS 导航网站"
+[params.search]
+  enable = false
+[params.darkmode]
+  enable = false
