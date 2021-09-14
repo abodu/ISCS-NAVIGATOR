@@ -5,7 +5,9 @@
 #### 配置步骤
 - 编译环境：`hugo` [Quick Start](https://gohugo.io/getting-started/quick-start/)
 - 修改步骤: 参考文件 `themes/navi/exampleSite/data/webstack.yml` 编辑 `data/webstack.yml`
-- 编译命令：`hugo server -D`
+- 编译命令：
+    - `hugo server -D`
+    - `hugo server -D --bind 0.0.0.0 -p 10081`
 - Font-Awesome-4.7.0 [参考](http://www.fontawesome.com.cn/faicons/)
 
 ---
