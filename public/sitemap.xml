@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://10.214.242.140/about/</loc>
+    <lastmod>2021-09-14T05:14:53+00:00</lastmod>
+  </url><url>
     <loc>http://10.214.242.140/categories/</loc>
   </url><url>
     <loc>http://10.214.242.140/</loc>
