@@ -8,6 +8,7 @@
 - 编译命令：
     - `hugo server -D`
     - `hugo server -D --bind 0.0.0.0 -p 10081`
+    - `hugo -D` 生成 public 内容
 - Font-Awesome-4.7.0 [参考](http://www.fontawesome.com.cn/faicons/)
 
 ---
