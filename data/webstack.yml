@@ -23,6 +23,10 @@
       logo: assets/images/favicon.png
       url: http://10.214.242.140/wiki/index.php
       description: ISCS 实验室维基百科
+    - title: phpMyAdmin
+      logo: assets/images/favicon.png
+      url: http://10.214.242.140/phpmyadmin
+      description: MYSQL 数据库
 
 - taxonomy: 系统工具
   icon: fa-cube
