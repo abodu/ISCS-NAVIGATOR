@@ -23,10 +23,10 @@
       logo: assets/images/favicon.png
       url: http://10.214.242.140/wiki/index.php
       description: ISCS 实验室维基百科
-    - title: phpMyAdmin
+    - title: 文件服务器
       logo: assets/images/favicon.png
-      url: http://10.214.242.140/phpmyadmin
-      description: MYSQL 数据库
+      url: http://10.214.147.250/
+      description: Yaowen Xu的文件服务器
 
 - taxonomy: 系统工具
   icon: fa-cube
@@ -35,7 +35,11 @@
       logo: assets/images/favicon.png
       url: http://10.214.242.140:4000
       description: RestAPI 调试工具
-    - title: CockPit
+    - title: CockPit-ZJU
       logo: assets/images/favicon.png
       url: http://10.214.242.140:9090
-      description: Cockpit 服务器管理平台
+      description: ZJU Cockpit 服务器管理平台
+    - title: CockPit-ZETONG
+      logo: assets/images/favicon.png
+      url: http://10.214.147.250:9090
+      description: ZETONG Cockpit 服务器管理平台
