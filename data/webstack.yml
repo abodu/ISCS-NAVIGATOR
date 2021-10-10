@@ -21,25 +21,29 @@
   links: 
     - title: ISCS WIKI
       logo: assets/images/favicon.png
-      url: http://10.214.242.140/wiki/index.php
+      url: http://zju.yaowenxu.cn/wiki/index.php
       description: ISCS 实验室维基百科
     - title: 文件服务器
       logo: assets/images/favicon.png
-      url: http://10.214.147.250/
-      description: Yaowen Xu的文件服务器
+      url: http://yaowenxu.cn
+      description: Yaowen Xu 的文件服务器
+    - title: Seafile 私有云
+      logo: assets/images/favicon.png
+      url: http://yaowenxu.cn:8000
+      description: Yaowen Xu 的私有云服务
 
 - taxonomy: 系统工具
   icon: fa-cube
   links: 
     - title: Hoppscotch
       logo: assets/images/favicon.png
-      url: http://10.214.242.140:4000
+      url: http://zju.yaowenxu.cn:4000
       description: RestAPI 调试工具
     - title: CockPit-ZJU
       logo: assets/images/favicon.png
-      url: http://10.214.242.140:9090
+      url: https://zju.yaowenxu.cn:9090
       description: ZJU Cockpit 服务器管理平台
     - title: CockPit-ZETONG
       logo: assets/images/favicon.png
-      url: http://10.214.147.250:9090
+      url: https://yaowenxu.cn:9090
       description: ZETONG Cockpit 服务器管理平台
